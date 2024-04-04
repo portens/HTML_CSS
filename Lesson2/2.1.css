@@ -1,0 +1,76 @@
+.sedgwick{
+    font-family: "Sedgwick Ave Display", cursive;
+    font-weight: 400;
+    font-style: normal;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.rubik{
+    font-family: "Rubik Pixels", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+.dancing{
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+.fjalla{
+    font-family: "Fjalla One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+.indie{
+    font-family: "Indie Flower", cursive;
+    font-weight: 400;
+    font-style: normal;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.main_div{
+    display: flex;
+    height: 1000px;
+    justify-content: space-around;
+}
+.div1{
+    width: 200px;
+    height: 200px;
+    background-color: mediumaquamarine;
+    margin-top: 10px;
+}
+.div2{
+    width: 200px;
+    height: 200px;
+    background-color: mediumaquamarine;
+    margin-top: 10px;
+}
+.div3{
+    width: 200px;
+    height: 200px;
+    background-color: mediumaquamarine;
+    margin-top: 10px;
+}
+.div4{
+    width: 200px;
+    height: 200px;
+    background-color: mediumaquamarine;
+    margin-top: 10px;
+}
+.div5{
+    width: 200px;
+    height: 200px;
+    background-color: mediumaquamarine;
+    margin-top: 10px;
+}

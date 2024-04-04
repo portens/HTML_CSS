@@ -1,0 +1,18 @@
+.main_div {
+    display: flex;
+    height: 300px;
+    background-color: #cdb55c;
+    justify-content: space-around;
+    align-items: center;
+}
+.div1{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    transition: 1s;
+}
+.div1:hover{
+    background-color: gray;
+    border-radius: 50%;
+    transition: 1s;
+}
