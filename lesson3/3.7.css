@@ -1,0 +1,29 @@
+.section1{
+    height: 50vh;
+    background-color: pink;
+}
+.section2{
+    background-color: black;
+    height: 50vh;
+}
+.title1{
+    padding-top: 7vh;
+    text-align: center;
+}
+.paragraph1{
+    padding: 3vh;
+    text-align: center;
+}
+.title2{
+    color: white;
+    padding-top: 10vh;
+    text-align: center;
+}
+.paragraph2{
+    color: white;
+    padding: 3vh;
+    text-align: center;
+}
+*{
+    margin: 0;
+}
