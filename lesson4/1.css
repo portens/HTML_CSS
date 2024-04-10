@@ -1,0 +1,125 @@
+.div1{
+    background-image: url("img4.png");
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.div2{
+    width: 60vw;
+    height: 50vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.div3{
+    background-image: url("image 3.png");
+    width: 30vw;
+    height: 50vh;
+}
+.div4{
+    background-color: #fff;
+    width: 30vw;
+    height: 50vh;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    Flex-direction: column
+}
+.button{
+    height: 6vh;
+    width: 20vw;
+    border-radius: 5px;
+    border: 1px solid rgba(156, 152, 152, 0.10);
+
+    background: rgba(217, 217, 217, 0.60);
+
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+
+}
+.div5{
+    background-image: url("Rectangle 4.png");
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.iframe{
+    width: 60vw;
+    height: 60vh;
+}
+.div5_1{
+    width: 60vw;
+    height: 20vh;
+    margin: 20px;
+}
+.div6{
+    width: 100vw;
+    height: 100vh;
+    background-image: url("Rectangle 16.png");
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.div6_1{
+    width: 20vw;
+    height: 70vh;
+    background-color: rgba(83, 83, 83, 0.40);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 20px;
+}
+.div6_1_1{
+    width: 17vw;
+    height: 29vh;
+    background-image: url("Rectangle 13.png");
+    margin: 20px;
+}
+.button1 {
+    height: 6vh;
+    width: 17vw;
+    border-radius: 5px;
+    border: 1px solid rgba(156, 152, 152, 0.10);
+
+    background: rgba(217, 217, 217, 0.60);
+
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+
+.div6_2{
+    width: 20vw;
+    height: 70vh;
+    background-color: rgba(83, 83, 83, 0.40);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 20px;
+}
+.div6_1_2 {
+        width: 17vw;
+        height: 29vh;
+        background-image: url("Rectangle 13.png");
+        margin: 20px;
+}
+.div6_3{
+    width: 20vw;
+    height: 70vh;
+    background-color: rgba(83, 83, 83, 0.40);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 20px;
+}
+.div6_1_3 {
+            width: 17vw;
+            height: 29vh;
+            background-image: url("Rectangle 13.png");
+            margin: 20px;
+}
